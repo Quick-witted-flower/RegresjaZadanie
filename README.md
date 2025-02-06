@@ -1,11 +1,12 @@
        #Obliczanie metryk w modelach
 
-##Opis projektu
-Ten projekt ma na celu obliczanie i porównywanie kluczowych metryk dla różnych modeli uczenia maszynowego. W szczególności analizujemy jakość predykcji modeli przy użyciu popularnych metryk oraz wizualizujemy wyniki dla lepszego zrozumienia ich wydajności.
+##Opis projektu:\
 
-##Funkcjonalności
+    Ten projekt ma na celu obliczanie i porównywanie kluczowych metryk dla różnych modeli uczenia maszynowego. W szczególności 
+    analizujemy jakość predykcji modeli przy użyciu popularnych metryk oraz wizualizujemy wyniki dla lepszego zrozumienia ich 
+    wydajności.
 
-Obliczanie metryk:
+##Obliczanie metryk:
 
     RMSE (Root Mean Squared Error): Średni błąd kwadratowy po zredukowaniu jednostki.
     MAE (Mean Absolute Error): Średni błąd bezwzględny.
